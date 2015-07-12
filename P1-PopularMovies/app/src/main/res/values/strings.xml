@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_desc">MoviePoster</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_sortby">Sort by</string>
+    <string name="pref_sort_key">sortBy</string>
+    <string name="pref_sort_title">Sort movies by</string>
+    <string name="API_KEY">044d3b00d6472a6ad16a2816e42282ad</string>
+    <string name="BASE_URL">http://api.themoviedb.org/3/discover/movie?</string>
+    <string name="BASE_URL_POSTER">http://image.tmdb.org/t/p/w342/</string>
+    <string name="BASE_URL_DROPBACK">http://image.tmdb.org/t/p/w500</string>
+    <string name="APPEND_TO_RESPONSE_PARAM">append_to_response</string>
+    <string name="API_KEY_PARAM">api_key</string>
+    <string name="SORT_PARAM">sort_by</string>
+    <string name="SORT_DESC_PARAM">.desc</string>
+    <string name="SORT_ASC_PARAM">.asc</string>
+    <string name="ORIGIONAL_TITLE_PARAM">original_title</string>
+    <string name="POSTER_PATH_PARAM">poster_path</string>
+    <string name="BACKDROP_PATH_PARAM">backdrop_path</string>
+    <string name="OVERVIEW_PARAM">overview</string>
+    <string name="RELEASE_DATE_PARAM">release_date</string>
+    <string name="POPULARITY_PARAM">popularity</string>
+    <string name="RATING_PARAM">vote_average</string>
+    <string name="VOTE_COUNT_PARAM">vote_count</string>
+    <string name="LANGUAGE_PARAM">language</string>
+    <string name="LANGUAGE_EN_PARAM">en</string>
+</resources>
